@@ -1,0 +1,15 @@
+{
+  "name": "glob",
+  "version": "0.0.1",
+  "description": "Turn websites into API's",
+  "main": "denode.js",
+  "scripts": {
+    "start": "node denode.js"
+  },
+  "author": "vorl",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
