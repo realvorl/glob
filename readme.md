@@ -2,7 +2,7 @@
 
 ## It's a scraping framework
 
-It has a built in **plugin** for the geman KBA (Kraftfahrt - Bundesamt) <br/>
+It has a built in **plugin** for the german KBA (Kraftfahrt - Bundesamt) <br/>
 because, why not? That is what I needed in form of structured data. <br/>
 This you can use as a template for your own plugins.
 
